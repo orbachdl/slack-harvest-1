@@ -19,8 +19,8 @@
         
     },
     "harvest" : {
-        "subdomain" : "neverbland",
-        "email" : "XXXXX@neverbland.com",
+        "subdomain" : "moment",
+        "email" : "dorbach@momentdesign.com",
         "password" : "XXXXXXXXXXXXXXX"
     },
     "slack" : {
